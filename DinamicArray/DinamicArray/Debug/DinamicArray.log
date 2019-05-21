@@ -1,0 +1,15 @@
+﻿Сборка начата 09.04.2019 10:39:44.
+     1>Проект "C:\Users\m.larichkin\Documents\Visual Studio 2013\Projects\DinamicArray\DinamicArray\DinamicArray.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "Dinamic Array.c"
+         Dinamic Array.c
+     1>c:\users\m.larichkin\documents\visual studio 2013\projects\dinamicarray\dinamicarray\dinamic array.c(39): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\m.larichkin\documents\visual studio 2013\projects\dinamicarray\dinamicarray\dinamic array.c(41): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\m.larichkin\Documents\Visual Studio 2013\Projects\DinamicArray\Debug\DinamicArray.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\m.larichkin\Documents\Visual Studio 2013\Projects\DinamicArray\Debug\DinamicArray.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\m.larichkin\Documents\Visual Studio 2013\Projects\DinamicArray\Debug\DinamicArray.lib" /MACHINE:X86 "Debug\Dinamic Array.obj"
+         DinamicArray.vcxproj -> C:\Users\m.larichkin\Documents\Visual Studio 2013\Projects\DinamicArray\Debug\DinamicArray.exe
+     1>Сборка проекта "C:\Users\m.larichkin\Documents\Visual Studio 2013\Projects\DinamicArray\DinamicArray\DinamicArray.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:06.08
